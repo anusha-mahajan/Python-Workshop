@@ -54,9 +54,12 @@ dictionary({'k1':[1,2,3,{'tricky':['oh','man','inception',{'target':[1,2,3,'hell
 
 
 def subjective():
+    print("Tuple is _______
+    immutable so basically once the data inside tuple is set it can't be changed,whereas the 
+    data in list is mutable ,elements can be changed later while programming")
+subjective()
     
 # ** What is the main difference between a tuple and a list? **
-# Tuple is _______immutable so basically once the data inside tuple is set it can't be changed,whereas the data in list is mutable ,elements can be changed later while programming
 #list can be modified using various built-in methods but tuples don't have these built-in methods
 
 def domainGet(email):
